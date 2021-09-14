@@ -1,4 +1,4 @@
-# Introduction of Programming Coursework
+# Introduction to Programming Coursework
 \
 This coursework requires to conduct a data analysis by using a massive Airbnb data set.
 \
